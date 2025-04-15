@@ -9,10 +9,9 @@ private:
 public:
     Rectangle(double w = 2.0, double h = 3.0) : width(w), height(h) {}
 
-    void draw() override {
-        cout << "Drawing Rectangle\n";
+    std::string draw() const override {
+        return "Drawing Circle";
     }
-
     double area() const override {
         return width * height;
     }
