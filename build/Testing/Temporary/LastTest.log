@@ -1,0 +1,84 @@
+Start testing: Apr 15 15:19 +06
+----------------------------------------------------------
+1/3 Testing: ShapeFactoryTest.CreatesCircle
+1/3 Test: ShapeFactoryTest.CreatesCircle
+Command: "/home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/runTests" "--gtest_filter=ShapeFactoryTest.CreatesCircle" "--gtest_also_run_disabled_tests"
+Directory: /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build
+"ShapeFactoryTest.CreatesCircle" start time: Apr 15 15:19 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeFactoryTest.CreatesCircle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeFactoryTest
+[ RUN      ] ShapeFactoryTest.CreatesCircle
+[       OK ] ShapeFactoryTest.CreatesCircle (0 ms)
+[----------] 1 test from ShapeFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeFactoryTest.CreatesCircle" end time: Apr 15 15:19 +06
+"ShapeFactoryTest.CreatesCircle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: ShapeFactoryTest.CreatesSquare
+2/3 Test: ShapeFactoryTest.CreatesSquare
+Command: "/home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/runTests" "--gtest_filter=ShapeFactoryTest.CreatesSquare" "--gtest_also_run_disabled_tests"
+Directory: /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build
+"ShapeFactoryTest.CreatesSquare" start time: Apr 15 15:19 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeFactoryTest.CreatesSquare
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeFactoryTest
+[ RUN      ] ShapeFactoryTest.CreatesSquare
+[       OK ] ShapeFactoryTest.CreatesSquare (0 ms)
+[----------] 1 test from ShapeFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeFactoryTest.CreatesSquare" end time: Apr 15 15:19 +06
+"ShapeFactoryTest.CreatesSquare" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: ShapeFactoryTest.ReturnsNullOnUnknownType
+3/3 Test: ShapeFactoryTest.ReturnsNullOnUnknownType
+Command: "/home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/runTests" "--gtest_filter=ShapeFactoryTest.ReturnsNullOnUnknownType" "--gtest_also_run_disabled_tests"
+Directory: /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build
+"ShapeFactoryTest.ReturnsNullOnUnknownType" start time: Apr 15 15:19 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/md-nissan-ali/CSE-3206-Lab-Final/FactoryMethod/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeFactoryTest.ReturnsNullOnUnknownType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeFactoryTest
+[ RUN      ] ShapeFactoryTest.ReturnsNullOnUnknownType
+[       OK ] ShapeFactoryTest.ReturnsNullOnUnknownType (0 ms)
+[----------] 1 test from ShapeFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeFactoryTest.ReturnsNullOnUnknownType" end time: Apr 15 15:19 +06
+"ShapeFactoryTest.ReturnsNullOnUnknownType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 15 15:19 +06
